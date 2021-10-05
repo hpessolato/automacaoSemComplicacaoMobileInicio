@@ -1,6 +1,6 @@
 package br.com.chronosAcademy.logica;
 
-//Aula 03 - Lógica e Testes Unitários
+//Aula 3 - Lógica e Testes Unitários
 
 
 import org.junit.jupiter.api.DisplayName;
